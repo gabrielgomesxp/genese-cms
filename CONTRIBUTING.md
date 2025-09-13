@@ -22,4 +22,4 @@ Se você tem uma ideia para uma nova funcionalidade ou uma melhoria, sinta-se à
 5.  **Envie para o seu Fork:** `git push origin feature/minha-feature-incrivel`.
 6.  **Abra um Pull Request:** Vá para o repositório original e abra um PR da sua branch para a branch `main` do projeto.
 
-Obrigado por ajudar a tornar o OctoPress CMS ainda melhor!
+Obrigado por ajudar a tornar o Genese CMS ainda melhor!
